@@ -16,7 +16,7 @@ const system = (() => {
 })();
 
 const projectName = 'redux-demo4';
-const target = process.env.NODE_ENV !== 'production' ? '' : `http://localhost:63342/${projectName}`;
+const target = process.env.NODE_ENV !== 'production' ? '' : `https://bj75326.github.io/${projectName}`;
 
 
 const config = {
